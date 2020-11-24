@@ -1,0 +1,2 @@
+*[[:space:]].psd/pdf/word/zip filter=lfs diff=lfs merge=lfs -text
+*[[:space:]].rar/zip filter=lfs diff=lfs merge=lfs -text
